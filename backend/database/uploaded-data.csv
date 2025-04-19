@@ -1,0 +1,21 @@
+id,first_name,last_name,email,phone,city,entry_date
+1,John,Smith,john.smith@example.com,555-123-4567,New York,2025-01-15
+2,Sarah,Johnson,sarah.j@example.com,555-234-5678,Los Angeles,2025-01-16
+3,Michael,Brown,m.brown@example.com,555-345-6789,Chicago,2025-01-17
+4,Emily,Davis,emily.davis@example.com,555-456-7890,Houston,2025-01-18
+5,Robert,Wilson,rwilson@example.com,555-567-8901,Phoenix,2025-01-19
+6,Jennifer,Taylor,jtaylor@example.com,555-678-9012,Philadelphia,2025-01-20
+7,David,Anderson,danderson@example.com,555-789-0123,San Antonio,2025-01-21
+8,Lisa,Thomas,lisa.t@example.com,555-890-1234,San Diego,2025-01-22
+9,James,Jackson,jjackson@example.com,555-901-2345,Dallas,2025-01-23
+10,Susan,White,s.white@example.com,555-012-3456,San Jose,2025-01-24
+11,Richard,Harris,rharris@example.com,555-123-4567,Austin,2025-01-25
+12,Dorothy,Martin,dmartin@example.com,555-234-5678,Jacksonville,2025-01-26
+13,Thomas,Thompson,tthompson@example.com,555-345-6789,Fort Worth,2025-01-27
+14,Maria,Garcia,mgarcia@example.com,555-456-7890,Columbus,2025-01-28
+15,Charles,Martinez,cmartinez@example.com,555-567-8901,Indianapolis,2025-01-29
+16,Jessica,Robinson,jrobinson@example.com,555-678-9012,Charlotte,2025-01-30
+17,Daniel,Clark,dclark@example.com,555-789-0123,Seattle,2025-01-31
+18,Nancy,Rodriguez,nrodriguez@example.com,555-890-1234,Denver,2025-02-01
+19,Matthew,Lewis,mlewis@example.com,555-901-2345,Washington,2025-02-02
+20,Betty,Walker,bwalker@example.com,555-012-3456,Boston,2025-02-03
